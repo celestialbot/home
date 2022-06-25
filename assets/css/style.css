@@ -9,7 +9,7 @@ html {
 }
 
 .blurple {
-  color: #7289da;
+  color: #fccbeb;
 }
 
 .bg-base {
@@ -18,7 +18,7 @@ html {
 
 #backtotop {
   display: inline-block;
-  background-color: #7289da;
+  background-color: #fccbeb;
   width: 50px;
   height: 50px;
   text-align: center;
@@ -56,12 +56,12 @@ html {
 
 .navbar-item:hover {
   background-color: transparent !important;
-  color: #7289da !important;
+  color: #fccbeb !important;
 }
 
 .navbar-link:hover {
   background-color: transparent !important;
-  color: #7289da !important;
+  color: #fccbeb !important;
 }
 
 .navbar-menu {
@@ -165,7 +165,7 @@ nav.nav-w {
 }
 
 .line.blurple {
-  background: #7289da;
+  background: #fccbeb;
 }
 
 .title.lined {
@@ -192,7 +192,7 @@ nav.nav-w {
 }
 
 .button.is-blurple {
-  background-color: #7289da;
+  background-color: #fccbeb;
   border-color: transparent;
   color: #fff;
 }
