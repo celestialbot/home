@@ -2,9 +2,6 @@
 
 Website for my discord bot, & my discord server.
 
-# Preview
-
-![img](/ss/screenshoot-full.png)
 
 # Website
 
